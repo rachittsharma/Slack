@@ -37,7 +37,7 @@ const startServer=async()=>{
     }
 };
 
-startServer();
+startServerKind();
 
 export default app;
 
